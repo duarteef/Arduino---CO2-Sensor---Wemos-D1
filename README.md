@@ -1,0 +1,1 @@
+O presente código foi produzido no âmbito do projeto de pesquisa "Produção e qualidade de sementes em Rede" (https://botanica.icb.ufg.br/p/47978-pesquisa-e-inovacao-projeto-producao-e-qualidade-de-sementes-em-rede), que está sendo desenvolvido na Universidade Federal de Goiás (UFG).
