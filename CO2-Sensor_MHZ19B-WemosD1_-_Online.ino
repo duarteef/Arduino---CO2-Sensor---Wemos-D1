@@ -5,7 +5,7 @@
  * Arduino e também para ampliar o uso da técnica na avaliação da atividade respiratória em sementes.
  * Para o uso do sensor de CO2, as conexões com os cabos de energia e de comunicação com o Controlador recomendamos ler informações disponiveis em:
  * https://www.usinainfo.com.br/sensor-de-gas-arduino/sensor-de-co2-mh-z19b-infravermelho-5000ppm-cabo-6089.html?srsltid=AfmBOorSnNatdjMKYauMe2L4ebMYP1ukeBZTOjg8Xzc2LBIwj9iLuT5C
- * fazendo as conexões para a comunicação nos pinos 13 e 15 do controlador Wemos D1 que usamos.*/
+ * fazendo as conexões para a comunicação nos pinos 13 e 15 do controlador Wemos D1.*/
 
 #include <SoftwareSerial.h>      // Comunicação serial com o sensor
 #include <MHZ19.h>               // Biblioteca para sensor MH-Z19B
