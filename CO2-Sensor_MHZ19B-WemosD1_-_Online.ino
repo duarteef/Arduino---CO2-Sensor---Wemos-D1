@@ -1,8 +1,8 @@
 /*O presente código para determinar a produção de CO2 nas sementes foi produzido no âmbito do 
  * projeto de pesquisa "Produção de qualidade de sementes em Rede" 
  * (https://botanica.icb.ufg.br/p/47978-pesquisa-e-inovacao-projeto-producao-e-qualidade-de-sementes-em-rede).
- * Está sendo disponibilizado para reuso livre e gratuíto, por utilizar a plantaforma
- * Arduino e para ampliar o uso da técnica na avaliação da atividade respiratória em sementes.
+ * Está sendo disponibilizado para reuso livre e gratuíto, por utilizar a plataforma
+ * Arduino e também para ampliar o uso da técnica na avaliação da atividade respiratória em sementes.
  * Para o uso do sensor de CO2, as conexões com os cabos de energia e de comunicação com o Controlador recomendamos ler informações disponiveis em:
  * https://www.usinainfo.com.br/sensor-de-gas-arduino/sensor-de-co2-mh-z19b-infravermelho-5000ppm-cabo-6089.html?srsltid=AfmBOorSnNatdjMKYauMe2L4ebMYP1ukeBZTOjg8Xzc2LBIwj9iLuT5C
  * fazendo as conexões para a comunicação nos pinos 13 e 15 do controlador Wemos D1 que usamos.*/
