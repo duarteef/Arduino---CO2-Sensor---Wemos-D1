@@ -13,7 +13,7 @@ Sistema Arduino:
 6. Na aba Ferramentas, selecionamos a Porta de conexão do controlador, a Placa "LOLIN(WeMos)D1 R1" e marcamos a opção "115200" na Upload Speed.
 7. Fez-se a calibração do sensor por 20 minutos em ambiente aberto, utilizando o código disponível na Biblioteca MH-Z19 (https://github.com/WifWaf/MH-Z19).
 8. Criamos uma conta e um canal no ThingSpeak (https://thingspeak.mathworks.com), para registrar os dados das leituras de CO2 de forma remota.
-9. Abrimos o código apresentado neste projeto (CO2-Sensor_MHZ19B-WemosD1.ino) e substituímos as informações indicadas nos //Comentários.
+9. Abrimos o código apresentado neste projeto (CO2-Sensor_MHZ19B-WemosD1_-_Online.ino) e substituímos as informações indicadas nos //Comentários.
 10. Carregamos o código no controlador e aguardamos, até o envio dos dados de forma correta para o canal criado do ThinkSpeak a cada 5 minutos.
 
 Preparação do Recipiente:
