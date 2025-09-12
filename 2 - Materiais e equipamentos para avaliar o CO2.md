@@ -19,7 +19,7 @@ Sistema Arduino:
 Preparação do Recipiente:
 
 11. Fizemos a assepcia do recipiente com Álcool 70%.
-12. Forma usados como substrato duas folhas de papel mata-borrão (10,4 x 10,4 cm), umedecidas com água destilada, com volume equivalente à 2,5 vezes a massa do papel, conforme recomendado para testes de germinação nas Regras para Análise de Sementes (https://wikisda.agricultura.gov.br/pt-br/Laborat%C3%B3rios/Metodologia/Sementes/RAS_2025/cap_4_Germinacao_rev_1).
+12. O substrato foi duas folhas de papel mata-borrão (10,4 x 10,4 cm), umedecidas com água destilada, com volume equivalente à 2,5 vezes a massa do papel, conforme recomendado para testes de germinação nas Regras para Análise de Sementes (https://wikisda.agricultura.gov.br/pt-br/Laborat%C3%B3rios/Metodologia/Sementes/RAS_2025/cap_4_Germinacao_rev_1).
 
 Preparação da amostra:
 
